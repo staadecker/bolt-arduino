@@ -1,3 +1,5 @@
+# CODE MOVED TO "BOLT" REPO
+
 # BOLT (Arduino)
 
 WARNING : This project is not finished or fully functionnal.
